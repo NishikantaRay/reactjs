@@ -1,6 +1,7 @@
-// import logo from './logo.svg';
+import a,{b,c} from './module2.mjs';
 import './App.css';
 let name= "nishi";
+console.log(a,b,c);
 function App() {
   return (
     <>
